@@ -1,6 +1,12 @@
 # treinamento-h2ia
 
 ## Folders struct
-├───Pre-week
-|    └───numpy_matplotlib.ipynb
-└───Buscas-SEM-info
+
+```
+hub2ia
+├─ Buscas-SEM-info
+├─ Pre-week
+│  └─ numpy_matplotlib.ipynb
+└─ README.md
+
+```

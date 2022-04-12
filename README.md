@@ -2,5 +2,5 @@
 
 ## Folders struct
 ├───Pre-week
-    └───numpy_matplotlib.ipynb
+|    └───numpy_matplotlib.ipynb
 └───Buscas-SEM-info

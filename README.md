@@ -2,8 +2,11 @@
 Repositório destinado a publicação dos exercícios propostos na seleção do HUB2IA da Universidade Federal de Pelotas
 
 ## estrutura das pastas
+
 ```
-hub2ia
+treinamento-h2ia
+├─ algoritmo-genetico
+│  └─ algoritmo_genetico.ipynb
 ├─ busca-com-info
 │  └─ busca_com_inf.ipynb
 ├─ busca-tabu

@@ -9,10 +9,18 @@ treinamento-h2ia
 │  └─ algoritmo_genetico.ipynb
 ├─ busca-com-info
 │  └─ busca_com_inf.ipynb
+├─ busca-competitiva
+│  └─ busca_competitiva.ipynb
 ├─ busca-tabu
 │  └─ busca_tabu.ipynb
 ├─ buscas-sem-info
 │  └─ buscas_sem_inf.ipynb
+├─ decision-tree
+│  └─ decision_tree.ipynb
+├─ KMeans
+│  └─ k_means.ipynb
+├─ KNN
+│  └─ knn.ipynb
 ├─ pre_week
 │  └─ numpy_matplotlib.ipynb
 └─ README.md

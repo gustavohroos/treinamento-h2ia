@@ -21,6 +21,8 @@ treinamento-h2ia
 │  └─ k_means.ipynb
 ├─ KNN
 │  └─ knn.ipynb
+├─ MLP
+│  └─ MLPClassifier.ipynb
 ├─ pre_week
 │  └─ numpy_matplotlib.ipynb
 └─ README.md
